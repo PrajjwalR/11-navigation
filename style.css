@@ -1,0 +1,210 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: linear-gradient(to right, rgb(2, 226, 255)10%, rgb(143, 34, 194));
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.child-container1{
+    width: 64rem;
+    height: 5rem;
+    background-color: white;
+    margin-top: -30rem;
+    border-radius: 5px;
+margin-left: 10rem;
+    
+}
+.previous{
+border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+margin-top: 21px;
+margin-left: 25px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 10px 25px;
+    font-size: larger;
+}
+
+.one-two-three1{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 9.5rem; 
+    font-size: larger;
+}
+.one-two-three2{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+.one-two-three3{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+.one-two-three4{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+
+.one-two-three5{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+.one-two-three6{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+.one-two-three7{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+}
+
+.one-two-three17{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 5.3rem;
+    font-size: larger;
+}
+.next{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 6.3rem;
+    font-size: larger;
+}
+
+
+
+/* child container 2 */
+
+.child-container2{
+    width: 43rem;
+    height: 5rem;
+    background-color: white;
+    margin-top: -28rem;
+    border-radius: 5px;
+margin-left: 21rem;  
+}
+
+.forward-arrow{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+    margin: 20px;
+}
+.backword-arrow{
+    border: 1px solid rgb(218, 218, 218);
+    border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem;
+    font-size: larger;
+    margin-left: 120px;
+}
+
+.one-two-three11{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 4.5rem; 
+    font-size: larger;
+}
+.one-two-three22{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem; 
+    font-size: larger;
+}
+.one-two-three33{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem; 
+    font-size: larger;
+}
+.one-two-three44{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: white;
+    color: rgb(53, 53, 53);
+    padding: 9px 15px;
+    margin-left: 0.3rem; 
+    font-size: larger;
+}
+
+/* child container 3 */
+
+
+.child-container3{
+    width: 43rem;
+    height: 5rem;
+    background-color: white;
+    margin-top: 4rem;
+    border-radius: 5px;
+margin-left: 21rem;  
+}
+.one-two-three222{
+    border: 1px solid rgb(218, 218, 218);
+border-radius: 3px;
+    background-color: black;
+    color:white;
+    padding: 9px 15px;
+    margin-left: 0.3rem; 
+    font-size: larger;
+}
